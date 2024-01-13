@@ -1,0 +1,90 @@
+html, body {
+    background-color: #f4d04e;
+    font-family: figtree;
+    font-weight: 800%;
+    font-size: 16px
+}
+
+p {
+    line-height: 1.5;
+}
+
+.container {
+    border-radius: 20px;
+    box-shadow: 10px 10px  black;
+    margin: auto;
+    border: 40px solid white;
+    padding: 0 20px 10px 0;
+    width: 300px;
+    background-color: white;
+    margin-top: 80px;
+}
+
+.publish{
+    margin-top: 2px;
+}
+
+.foundation {
+    font-weight: bolder;
+    font-size: 20px;
+}
+
+.Greg {
+    font-weight: bolder;
+}
+
+.hooper {
+    margin-right: 30px;
+    width: 20%;
+    float: left;
+    margin-bottom: 20%;
+}
+
+.languages {
+    color: gray
+}
+
+img {
+    position: ;
+    border-radius: 20px;
+}
+
+.Btn {
+    background: #F4D04E;
+    background-image: -webkit-linear-gradient(top, #F4D04E, #F4D04E);
+    background-image: -moz-linear-gradient(top, #F4D04E, #F4D04E);
+    background-image: -ms-linear-gradient(top, #F4D04E, #F4D04E);
+    background-image: -o-linear-gradient(top, #F4D04E, #F4D04E);
+    background-image: -webkit-gradient(to bottom, #F4D04E, #F4D04E);
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 10px;
+    color: #000000;
+    font-family: Arial;
+    font-size: 13px;
+    font-weight: bold;
+    padding: 10px;
+    -webkit-box-shadow: 1px 1px 20px 0 #FFFFFF;
+    -moz-box-shadow: 1px 1px 20px 0 #FFFFFF;
+    box-shadow: 1px 1px 20px 0 #FFFFFF;
+    text-shadow: 1px 1px 20px #F4D04E;
+    border: solid #FFFFFF 1px;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    text-align: center;
+ }
+ 
+ .Btn:hover {
+    border: solid #337FED 1px;
+    background: #F4D04E;
+    background-image: -webkit-linear-gradient(top, #F4D04E, #F4D04E);
+    background-image: -moz-linear-gradient(top, #F4D04E, #F4D04E);
+    background-image: -ms-linear-gradient(top, #F4D04E, #F4D04E);
+    background-image: -o-linear-gradient(top, #F4D04E, #F4D04E);
+    background-image: -webkit-gradient(to bottom, #F4D04E, #F4D04E);
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    border-radius: 20px;
+    text-decoration: none;
+ }
